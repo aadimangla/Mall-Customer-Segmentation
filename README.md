@@ -53,6 +53,7 @@ Customer segmentation is the practice of dividing a customer base into groups of
 
 Here's why:
 * To become more profitable, you need to be able to differentiate your customers to more effectively satisfy the needs of the different segments.
+
 Dataset is available at [link](Dataset/Mall_Customers.csv)
 
 
