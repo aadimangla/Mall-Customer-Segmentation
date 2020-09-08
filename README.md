@@ -11,7 +11,7 @@
 <br />
 <p align="center">
  <a href="">
-    <img src="images/customer.jpg" alt="Logo" width="80" height="80">
+    <img src="images/customer.jpg" alt="Logo" width="100%" height="100%">
   </a> 
 
   <h1 align="center">Mall Customer Segmentation</h1>
